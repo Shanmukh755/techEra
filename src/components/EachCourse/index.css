@@ -1,0 +1,20 @@
+.each-course-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 230px;
+  height: 110px;
+}
+.course-logo {
+  height: 40px;
+  margin-right: 1rem;
+}
+.course-name {
+  color: #1e293b;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.nav-link{
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.nav-bar {
+  background-color: #f1f5f9;
+  height: 10vh;
+  padding: 0.3rem 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.website-logo {
+  height: 30px;
+}
